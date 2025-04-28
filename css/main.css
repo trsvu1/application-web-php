@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.input_form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#navbar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+}
